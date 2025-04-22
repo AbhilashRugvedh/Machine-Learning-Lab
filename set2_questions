@@ -1,0 +1,63 @@
+# Import necessary libraries
+
+#Import Dataset - set2_data.csv
+
+# Print top 5 and random 5 values - 2 Marks
+
+#Print column names - 1 Marks
+
+#Check the data type of each column - 1 Marks
+
+#Print number of rows and columns - 1 Mark
+
+#Print summary statistics of all variables - 1 Mark
+
+#Print the number of missing values in each column - 1 Marks
+
+#Impute missing values - Replace missing categorical values with mode and numerical values with mean of the column - 3 Marks
+#Print the number of missing values in each column after imputation
+
+#Print count of each class - 1 Marks
+
+#Plot histogram of values doors column - 1 Marks 
+
+# Plot bar of buying, maint, lug_boot, safety using 4X4 subplots - 3 Marks
+#num_bins = 10
+
+
+#Pie chart based on Car acceptability grouping - 1 Marks
+
+
+#Replace the value 5more and more with 5 in doors column - 1 Marks
+
+
+
+#Apply label encoder for categorical columns -  2 Marks
+
+
+#Prepare X - input matrix and y - label vector - 1 Mark
+
+
+# Split the data into train and test set  - use test size = 30% and random state = 4 : - 2 Marks
+
+
+
+# Importing decision tree classifier from sklearn library and fit the classifier on training data - 3 Marks
+#Use proper values for the depth and criterion parameters
+
+
+
+#Make predictions on test data - 1 Marks
+
+
+# Check the evaluation metrics of the model - Confusion Matrix, Accuracy, Precision, Recall, F1 score - 3 Marks
+
+
+
+
+
+#Draw the decision tree - 1 marks
+
+
+
+
